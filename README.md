@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/mayurdalimbkar" target="blank"><img src="https://img.shields.io/twitter/follow/mayurdalimbkar?logo=twitter&style=for-the-badge" alt="mayurdalimbkar" /></a> </p>
 
-- 🔭 I’m currently working on **JAVA J2EE**
+- 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Fullstack Developement**
 
-- 💬 Ask me about **Angular JS**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **mayurdalimbkar26@gmail.com**
 
