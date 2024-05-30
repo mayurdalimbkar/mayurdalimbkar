@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Next JS**
 
-- 👯 I’m looking to collaborate on **Fullstack Developement**
+- 👯 I’m looking to collaborate on **Fullstack Development**
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **mayurdalimbkar26@gmail.com**
+- 📫 How to reach me **Email : mayurdalimbkar26@gmail.com, LinkedIn : https://www.linkedin.com/in/mayur-dalimbkar-a1ba5a117/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
